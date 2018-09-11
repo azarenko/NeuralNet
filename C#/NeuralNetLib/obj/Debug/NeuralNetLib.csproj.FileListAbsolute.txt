@@ -1,0 +1,5 @@
+D:\projects\NeuralNet\C#\NeuralNetLib\obj\Debug\NeuralNetLib.csproj.CoreCompileInputs.cache
+D:\projects\NeuralNet\C#\NeuralNetLib\bin\Debug\NeuralNetLib.dll
+D:\projects\NeuralNet\C#\NeuralNetLib\bin\Debug\NeuralNetLib.pdb
+D:\projects\NeuralNet\C#\NeuralNetLib\obj\Debug\NeuralNetLib.dll
+D:\projects\NeuralNet\C#\NeuralNetLib\obj\Debug\NeuralNetLib.pdb

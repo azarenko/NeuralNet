@@ -52,12 +52,6 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="NeuralNet\CryptoRandom.cs" />
-    <Compile Include="NeuralNet\Dendrite.cs" />
-    <Compile Include="NeuralNet\Layer.cs" />
-    <Compile Include="NeuralNet\NetworkHelper.cs" />
-    <Compile Include="NeuralNet\NeuralNetwork.cs" />
-    <Compile Include="NeuralNet\Neuron.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
